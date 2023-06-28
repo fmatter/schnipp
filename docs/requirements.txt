@@ -1,0 +1,2 @@
+sphinxcontrib.napoleon
+sphinx-click==4.0.0
